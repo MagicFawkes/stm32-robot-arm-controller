@@ -65,6 +65,7 @@ This project was developed as part of personal advanced training in embedded C++
 - [Possible Future Improvements](#possible-future-improvements)
 - [Author](#author)
 - [Copyright](#copyright)
+- [Third-party components](#third-party-components)
 
 ---
 
@@ -895,5 +896,11 @@ These additions could further increase usability, safety and technical sophistic
 Copyright (c) 2026 Manuel Wiesinger
 
 All rights reserved.
+
+---
+
+## Third-party components
+
+This repository contains third-party components such as ARM CMSIS, STMicroelectronics device files and SEGGER startup/linker files, which remain under their respective licenses.
 
 ---
